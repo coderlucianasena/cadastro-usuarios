@@ -14,7 +14,7 @@ Este projeto é um sistema simples de cadastro de usuários que desenvolvi para 
 - **XAMPP**: Utilizei o XAMPP como ambiente de desenvolvimento local, que inclui Apache, MySQL, PHP e phpMyAdmin.
 - **Postman**: Usei o Postman para testar as requisições HTTP da API RESTful.
 - **Visual Studio Code**: Escolhi o VS Code como meu editor de código principal para o desenvolvimento.
-- **phpMyAdmin**: Utilizei o phpMyAdmin, incluído no XAMPP, para gerenciar visualmente o banco de dados M
+- **phpMyAdmin**: Utilizei o phpMyAdmin, incluído no XAMPP, para gerenciar visualmente o banco de dados.
 
 ## Estrutura do Projeto
 projeto-cadastro-usuarios/ 
